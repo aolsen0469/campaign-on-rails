@@ -52,7 +52,7 @@ Most importantly they are the connective tissue between your adventures (monster
 * Climax
 * Reward 
 
-### Maps
+### Maps Generators
 * Number of Chambers
 * Connectors
 * Biome / Theme / Tileset
