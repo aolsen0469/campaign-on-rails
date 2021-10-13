@@ -9,6 +9,8 @@ This repository is an attempt to answer a question.
 * If the goal of this use to create a session in less than 3 hours.
 
 ## Overview
+* Brainstorming
+* Logistics
 
 ### Golden Signals
 Golden signals are the things that you define upfront. This allows you to build a session around these things.
