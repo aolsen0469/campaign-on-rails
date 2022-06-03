@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.9
-
+# KEYWORDS='aboleth,dnd';for i in {1..3}; do python3.9 dl-art.py -k $KEYWORDS -d /foundry-data/Data/dm-assets/art/tokens -n $KEYWORDS-$i.jpg; done
 import sys
 import os
 import random
